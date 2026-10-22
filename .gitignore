@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+
+#virtual environment
+venv/
+.venv/
+
+#test
+.pytest_cache/
+.coverage
+
+
+#eviroment
+
+.env
+.env.*
+
+#IDE
+.vscode/
+.idea/
+
+ai_knowledge_assistant.egg-info/
+./ai_knowledge_assistant.egg-info
